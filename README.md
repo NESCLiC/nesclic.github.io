@@ -1,2 +1,2 @@
-# website
-Website for the NESCLiC Consortium 
+# NESCLiC Website
+Future home for the NESCLiC Consortium website
