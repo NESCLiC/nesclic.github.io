@@ -1,0 +1,11 @@
+# Site settings
+title: New England Software Carpentry Consortium
+github_username: NESCLiC
+description: >
+  This is a practice site to demo GitHub Pages.
+ 
+url: "https://nesclic.github.io/website"
+
+# Build settings
+markdown: kramdown
+theme: minima
