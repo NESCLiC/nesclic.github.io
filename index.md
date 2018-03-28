@@ -2,10 +2,10 @@
 layout: home
 ---
 
-## What is NESCLiC?
+### What is NESCLiC?
 The **New England Software Carpentry Library Consortium** or **(NESCLiC)** is
 
-## What are the Carpentries?
+### What are the Carpentries?
 ![The Carpentries Logo](tC.png)
 
 The Carpentries' workshops are hands-on two-day events that cover the core skills needed to be productive in a small team. Instruction sessions are integrated with practical exercises, and all instruction is done via live coding (carpentries.org).
