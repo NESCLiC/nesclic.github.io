@@ -1,10 +1,9 @@
 # Site settings
-title: New England Software Carpentry Library Consortium
+title: NESCLiC
 github_username: NESCLiC
 description: >
-  NESCLiC
  
-url: "https://nesclic.github.io/website"
+url: "https://nesclic.github.io/home"
 
 # Build settings
 markdown: kramdown
