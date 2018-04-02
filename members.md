@@ -9,36 +9,36 @@ permalink: /members/
 <table>
   <tr><td rowspan="3" width="20%"><img src="/home/images/Brown.png" alt="Brown University logo"></td>
     <td><div style="width:100px;float:left;margin:10px"><img src="/home/images/carpentries200x200.png" alt="Andrew Creamer photo"></div><div><b>Andrew Creamer</b> bio is here</div></td></tr>
-  <tr><td><div style="width:100px;float:left;margin:10px"><img src="/home/images/JD100x100.png" alt="Christian Darabos photo"></div><div><b> </b> bio is here</div></td></tr>
-  <tr><td><div style="width:100px;float:left;margin:10px"><img src="/home/images/KN100x100.png" alt="James Adams photo"></div><div><b>James Adams</b> should be added?</div></td></tr></table>
+  <tr><td><div style="width:100px;float:left;margin:10px"><img src="/home/images/carpentries200x200.png" alt="Christian Darabos photo"></div><div><b> </b> bio is here</div></td></tr>
+  <tr><td><div style="width:100px;float:left;margin:10px"><img src="/home/images/carpentries200x200.png" alt="James Adams photo"></div><div><b>James Adams</b> should be added?</div></td></tr></table>
 
 <table>
   <tr><td rowspan="3" width="20%"><img src="/home/images/Dartmouth.png" alt="Dartmouth University logo"></td>
-    <td><div style="width:100px;float:left;margin:10px"><img src="/home/images/CD100x100.png" alt="Lora Leligdon photo"></div><div><b>Lora Leligdon</b> bio is here</div></td></tr>
-  <tr><td><div style="width:100px;float:left;margin:10px"><img src="/home/images/JD100x100.png" alt="Christian Darabos photo"></div><div><b>Christian Darabos </b> bio is here</div></td></tr>
-  <tr><td><div style="width:100px;float:left;margin:10px"><img src="/home/images/KN100x100.png" alt="James Adams photo"></div><div><b>James Adams</b> should be added?</div></td></tr></table>
+    <td><div style="width:100px;float:left;margin:10px"><img src="/home/images/carpentries200x200.png" alt="Lora Leligdon photo"></div><div><b>Lora Leligdon</b> bio is here</div></td></tr>
+  <tr><td><div style="width:100px;float:left;margin:10px"><img src="/home/images/carpentries200x200.png" alt="Christian Darabos photo"></div><div><b>Christian Darabos </b> bio is here</div></td></tr>
+  <tr><td><div style="width:100px;float:left;margin:10px"><img src="/home/images/carpentries200x200.png" alt="James Adams photo"></div><div><b>James Adams</b> should be added?</div></td></tr></table>
   
 <table>
   <tr><td rowspan="3" width="20%"><img src="/home/images/HarvardLibrary.png" alt="Harvard University logo"></td>
-    <td><div style="width:100px;float:left;margin:10px"><img src="/home/images/CD100x100.png" alt="Julie Goldman photo"></div><div><b>Julie Goldman</b> bio is here</div></td></tr>
-  <tr><td><div style="width:100px;float:left;margin:10px"><img src="/home/images/JD100x100.png" alt="Ceilyn Boyd photo"></div><div><b>Ceilyn Boyd </b> bio is here</div></td></tr>
+    <td><div style="width:100px;float:left;margin:10px"><img src="/home/images/carpentries200x200.png" alt="Julie Goldman photo"></div><div><b>Julie Goldman</b> bio is here</div></td></tr>
+  <tr><td><div style="width:100px;float:left;margin:10px"><img src="/home/images/carpentries200x200.png" alt="Ceilyn Boyd photo"></div><div><b>Ceilyn Boyd </b> bio is here</div></td></tr>
 </table>
 
 <table>
   <tr><td rowspan="3" width="20%"><img src="/home/images/mountholyokecollege.png" alt="Mount Holyoke College logo"></td>
-    <td><div style="width:100px;float:left;margin:10px"><img src="/home/images/CD100x100.png" alt="James Burke photo"></div><div><b>James Burke</b> bio is here</div></td></tr>
-  <tr><td><div style="width:100px;float:left;margin:10px"><img src="/home/images/JD100x100.png" alt="Sarah Oelker photo"></div><div><b>Sarah Oelker</b> bio is here</div></td></tr>
+    <td><div style="width:100px;float:left;margin:10px"><img src="/home/images/carpentries200x200.png" alt="James Burke photo"></div><div><b>James Burke</b> bio is here</div></td></tr>
+  <tr><td><div style="width:100px;float:left;margin:10px"><img src="/home/images/carpentries200x200.png" alt="Sarah Oelker photo"></div><div><b>Sarah Oelker</b> bio is here</div></td></tr>
 </table>
 
 <table>
   <tr><td rowspan="3" width="20%"><img src="/home/images/tufts-logo-univ-blue.png" alt="Tufts University logo"></td>
-    <td><div style="width:100px;float:left;margin:10px"><img src="/home/images/CD100x100.png" alt="Catherine DeRose photo"></div><div><b>Kristin Lee</b> bio is here</div></td></tr>
-  <tr><td><div style="width:100px;float:left;margin:10px"><img src="/home/images/JD100x100.png" alt="Joshua Dull photo"></div><div><b>Ali Gofman </b> bio is here</div></td></tr>
-  <tr><td><div style="width:100px;float:left;margin:10px"><img src="/home/images/KN100x100.png" alt="Kyle Monahan photo"></div><div><b>Kyle Monahan</b> bio here</div></td></tr></table>
+    <td><div style="width:100px;float:left;margin:10px"><img src="/home/images/carpentries200x200.png" alt="Catherine DeRose photo"></div><div><b>Kristin Lee</b> bio is here</div></td></tr>
+  <tr><td><div style="width:100px;float:left;margin:10px"><img src="/home/images/carpentries200x200.png" alt="Joshua Dull photo"></div><div><b>Ali Gofman </b> bio is here</div></td></tr>
+  <tr><td><div style="width:100px;float:left;margin:10px"><img src="/home/images/carpentries200x200.png" alt="Kyle Monahan photo"></div><div><b>Kyle Monahan</b> bio here</div></td></tr></table>
   
 <table>
   <tr><td rowspan="1" width="20%"><img src="/home/images/UMassAmherstLibraries.gif" alt="UMass Amherst University logo"></td>
-    <td><div style="width:100px;float:left;margin:10px"><img src="/home/images/CD100x100.png" alt="Thea Atwood photo"></div><div><b>Thea Atwood</b> bio is here</div></td></tr>
+    <td><div style="width:100px;float:left;margin:10px"><img src="/home/images/carpentries200x200.png" alt="Thea Atwood photo"></div><div><b>Thea Atwood</b> bio is here</div></td></tr>
 </table>
 
 <table>
