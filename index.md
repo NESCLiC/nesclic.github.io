@@ -6,7 +6,7 @@ The **New England Software Carpentry Library Consortium** or **(NESCLiC)** is an
 
 
 ## Our Model
-The New England Software Carpentry Library Consortium (NESCLiC), an association of academic libraries, joined together to build a community of practice focused on building data science skills including research computing and extracting, wrangling, storing, analyzing, and visualizing data. NESCLiC allows member institutions to share in a Gold-level Software Carpentry (SWC) membership. 
+The New England Software Carpentry Library Consortium (NESCLiC), an association of academic libraries, joined together to build a community of practice focused on building data science skills including research computing and extracting, wrangling, storing, analyzing, and visualizing data. NESCliC member institutions share a Gold-level Software Carpentry (SWC) membership, which affords NESCLiC 6 free coordinated workshops, a 50% discount on the cost for additional coordinated workshops, no charge for self-organized workshops, and fifteen instructors trained, per year. 
 
 NESCLiC provides the opportunity for members to:
 
