@@ -14,7 +14,12 @@ NESCLiC provides the opportunity for members to:
 * Build a network of data fluent researchers and instructors 
 * Refine skills by participating as instructors at other member institutions
 
-
+Financial commitment: Cost of shared Carpentry membership ($1000/person) plus training expenses (travel or hosting)
+Time commitment: (2) – two-day training workshops plus committee work
 
 ## Become a Member
-Contact info coming soon!
+
+Interested in joining NESCLiC?
+
+Email: nesclic@googlegroups.com
+
