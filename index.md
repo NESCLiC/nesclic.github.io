@@ -15,7 +15,16 @@ NESCLiC provides the opportunity for members to:
 * Refine skills by participating as instructors at other member institutions
 
 Financial commitment: Cost of shared Carpentry membership ($1000/person) plus training expenses (travel or hosting)
+
 Time commitment: (2) – two-day training workshops plus committee work
+
+NESCLiC has established bylaws and members contribute to the consortium by participating in one of several roles:
+* Carpentries liaison
+* Membership/Recruiting
+* Assessment
+* Outreach
+* Workshop coordination 
+
 
 ## Become a Member
 
