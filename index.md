@@ -10,9 +10,9 @@ The New England Software Carpentry Library Consortium (NESCLiC), an association 
 
 NESCLiC provides the opportunity for members to:
 
-*Develop instructional materials
-*Build a network of data fluent researchers and instructors 
-*Refine skills by participating as instructors at other member institutions
+* Develop instructional materials
+* Build a network of data fluent researchers and instructors 
+* Refine skills by participating as instructors at other member institutions
 
 
 
