@@ -7,8 +7,8 @@ permalink: /members/
 
 
 <table>
-  <tr><td rowspan="3" width="20%"><img src="/home/images/Dartmouth.png" alt=“Brown University logo“></td>
-    <td><div style="width:100px;float:left;margin:10px"><img src="/home/images/carpentries200x200.png" alt=“Andrew Creamer”></div><div><b>Andrew Creamer</b> bio is here</div></td></tr>
+  <tr><td rowspan="3" width="20%"><img src="/home/images/Brown.png" alt="Brown University logo"></td>
+    <td><div style="width:100px;float:left;margin:10px"><img src="/home/images/carpentries200x200.png" alt="Andrew Creamer photo"></div><div><b>Andrew Creamer</b> bio is here</div></td></tr>
   <tr><td><div style="width:100px;float:left;margin:10px"><img src="/home/images/JD100x100.png" alt="Christian Darabos photo"></div><div><b> </b> bio is here</div></td></tr>
   <tr><td><div style="width:100px;float:left;margin:10px"><img src="/home/images/KN100x100.png" alt="James Adams photo"></div><div><b>James Adams</b> should be added?</div></td></tr></table>
 
@@ -25,9 +25,9 @@ permalink: /members/
 </table>
 
 <table>
-  <tr><td rowspan="3" width="20%"><img src="/home/images/mountholyokecollege.png” alt=“Mount Holyoke College logo“></td>
-    <td><div style="width:100px;float:left;margin:10px"><img src="/home/images/CD100x100.png" alt=“James Burke photo“></div><div><b>James Burke</b> bio is here</div></td></tr>
-  <tr><td><div style="width:100px;float:left;margin:10px"><img src="/home/images/JD100x100.png" alt=“Sarah Oelker photo“></div><div><b>Sarah Oelker</b> bio is here</div></td></tr>
+  <tr><td rowspan="3" width="20%"><img src="/home/images/mountholyokecollege.png" alt="Mount Holyoke College logo"></td>
+    <td><div style="width:100px;float:left;margin:10px"><img src="/home/images/CD100x100.png" alt="James Burke photo"></div><div><b>James Burke</b> bio is here</div></td></tr>
+  <tr><td><div style="width:100px;float:left;margin:10px"><img src="/home/images/JD100x100.png" alt="Sarah Oelker photo"></div><div><b>Sarah Oelker</b> bio is here</div></td></tr>
 </table>
 
 <table>
