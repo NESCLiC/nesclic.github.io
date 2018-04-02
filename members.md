@@ -6,6 +6,11 @@ permalink: /members/
 #### 2017-2018 NESCLiC member institutions and their participants.
 
 
+<table>
+  <tr><td rowspan="3" width="20%"><img src="/home/images/Dartmouth.png" alt=“Brown University logo“></td>
+    <td><div style="width:100px;float:left;margin:10px"><img src="/home/images/CD100x100.png" alt=“Andrew Creamer”></div><div><b>Andrew Creamer</b> bio is here</div></td></tr>
+  <tr><td><div style="width:100px;float:left;margin:10px"><img src="/home/images/JD100x100.png" alt="Christian Darabos photo"></div><div><b>Christian Darabos </b> bio is here</div></td></tr>
+  <tr><td><div style="width:100px;float:left;margin:10px"><img src="/home/images/KN100x100.png" alt="James Adams photo"></div><div><b>James Adams</b> should be added?</div></td></tr></table>
 
 <table>
   <tr><td rowspan="3" width="20%"><img src="/home/images/Dartmouth.png" alt="Dartmouth University logo"></td>
