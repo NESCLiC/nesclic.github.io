@@ -13,7 +13,7 @@ permalink: /members/
   <tr><td><div style="width:100px;float:left;margin:10px"><img src="/home/images/carpentries200x200.png" alt="Patrick Rashleigh photo"></div><div><b>Patrick Rashleigh</b> should be added?</div></td></tr></table>
 
 <table>
-  <tr><td rowspan="3" width="20%"><img src="/home/images/Dartmouth.png" alt="Dartmouth University logo"></td>
+  <tr><td rowspan="3" width="20%"><img src="/home/images/dartmouth.jpg" alt="Dartmouth University logo"></td>
     <td><div style="width:100px;float:left;margin:10px"><img src="/home/images/carpentries200x200.png" alt="Lora Leligdon photo"></div><div><b>Lora Leligdon</b> bio is here</div></td></tr>
   <tr><td><div style="width:100px;float:left;margin:10px"><img src="/home/images/CD_Dartmouth.jpg" alt="Christian Darabos photo"></div><div><b>Christian Darabos </b> is a Life Science Informatics Specialist at Dartmouth College. In his role, he supports the computational needs of the research community, including High Performance Computing, Cloud Technologies, data storage and wrangling, and training in computational tool. He obtained his Ph.D. in Information Systems and Molecular Biotechnologies in Switzerland where he grew up speaking French.</div></td></tr>
   <tr><td><div style="width:100px;float:left;margin:10px"><img src="/home/images/carpentries200x200.png" alt="James Adams photo"></div><div><b>James Adams</b> should be added?</div></td></tr></table>
