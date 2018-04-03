@@ -26,7 +26,7 @@ permalink: /members/
 
 <table>
   <tr><td rowspan="3" width="20%"><img src="/home/images/mountholyokecollege.png" alt="Mount Holyoke College logo"></td>
-    <td><div style="width:100px;float:left;margin:10px"><img src="/home/images/carpentries200x200.png" alt="James Burke photo"></div><div><b>James Burke</b> bio is here</div></td></tr>
+    <td><div style="width:100px;float:left;margin:10px"><img src="/home/images/Burkeapr18.jpg" alt="James Burke photo"></div><div><b>James Burke</b> bio is here</div></td></tr>
   <tr><td><div style="width:100px;float:left;margin:10px"><img src="/home/images/carpentries200x200.png" alt="Sarah Oelker photo"></div><div><b>Sarah Oelker</b> bio is here</div></td></tr>
 </table>
 
