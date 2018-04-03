@@ -27,7 +27,7 @@ permalink: /members/
 <table>
   <tr><td rowspan="3" width="20%"><img src="/home/images/mountholyokecollege.png" alt="Mount Holyoke College logo"></td>
     <td><div style="width:100px;float:left;margin:10px"><img src="/home/images/Burkeapr18.jpg" alt="James Burke photo"></div><div><b>James Burke</b> bio is here</div></td></tr>
-  <tr><td><div style="width:100px;float:left;margin:10px"><img src="/home/images/soelker2015.jpg" alt="Sarah Oelker photo"></div><div><b>Sarah Oelker</b> bio is here</div></td></tr>
+  <tr><td><div style="width:100px;float:left;margin:10px"><img src="/home/images/soelker2015.jpg" alt="Sarah Oelker photo"></div><div><b>Sarah Oelker</b> is the Science Librarian at Mount Holyoke College, where they consult with student and faculty researchers on the selection, handling, and preservation of all kinds of research data. They are the liaison to Astronomy, Biological Sciences, Biochemistry, Computer Science, Neuroscience and Behavior, and Physics. They demystify science and scientific careers for students from as wide a variety of backgrounds as possible, and to help every student develop their critical understanding of science.</div></td></tr>
 </table>
 
 <table>
