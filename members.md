@@ -8,15 +8,15 @@ permalink: /members/
 
 <table>
   <tr><td rowspan="3" width="20%"><img src="/home/images/Brown.png" alt="Brown University logo"></td>
-    <td><div style="width:100px;float:left;margin:10px"><img src="/home/images/carpentries200x200.png" alt="Andrew Creamer photo"></div><div><b>Andrew Creamer</b> bio is here</div></td></tr>
+    <td><div style="width:100px;float:left;margin:10px"><img src="/home/images/AC_Brown.jpg" alt="Andrew Creamer photo"></div><div><b>Andrew Creamer</b> is the Scientific Data Management Librarian at Brown University. He helps researchers with the retention and curation of research data, writing data management and sharing plans for sponsored research grant proposals, and serves as liaison for the Brown Digital Repository (BDR).</div></td></tr>
   <tr><td><div style="width:100px;float:left;margin:10px"><img src="/home/images/carpentries200x200.png" alt="Bruce Boucek photo"></div><div><b>Bruce Boucek </b> bio is here</div></td></tr>
-  <tr><td><div style="width:100px;float:left;margin:10px"><img src="/home/images/carpentries200x200.png" alt="Patrick Rashleigh photo"></div><div><b>Patrick Rashleigh</b> should be added?</div></td></tr></table>
+  <tr><td><div style="width:100px;float:left;margin:10px"><img src="/home/images/carpentries200x200.png" alt="Patrick Rashleigh photo"></div><div><b>Patrick Rashleigh</b> bio is here</div></td></tr></table>
 
 <table>
   <tr><td rowspan="3" width="20%"><img src="/home/images/dartmouth.jpg" alt="Dartmouth University logo"></td>
     <td><div style="width:100px;float:left;margin:10px"><img src="/home/images/carpentries200x200.png" alt="Lora Leligdon photo"></div><div><b>Lora Leligdon</b> bio is here</div></td></tr>
   <tr><td><div style="width:100px;float:left;margin:10px"><img src="/home/images/CD_Dartmouth.jpg" alt="Christian Darabos photo"></div><div><b>Christian Darabos </b> is a Life Science Informatics Specialist at Dartmouth College. In his role, he supports the computational needs of the research community, including High Performance Computing, Cloud Technologies, data storage and wrangling, and training in computational tool. He obtained his Ph.D. in Information Systems and Molecular Biotechnologies in Switzerland where he grew up speaking French.</div></td></tr>
-  <tr><td><div style="width:100px;float:left;margin:10px"><img src="/home/images/carpentries200x200.png" alt="James Adams photo"></div><div><b>James Adams</b> should be added?</div></td></tr></table>
+  <tr><td><div style="width:100px;float:left;margin:10px"><img src="/home/images/JA_Dartmouth.png" alt="James Adams photo"></div><div><b>James Adams</b> is a Data and Visualization Librarian at Baker-Berry Library, Dartmouth College. He acts as liaison to the Government Department and Quantitative Social Science Program, and provides support for data tools used by faculty, staff, and students in all disciplines. He is interested in using open source tools to improve library services and operations.</div></td></tr></table>
   
 <table>
   <tr><td rowspan="3" width="20%"><img src="/home/images/HarvardLibrary.png" alt="Harvard University logo"></td>
