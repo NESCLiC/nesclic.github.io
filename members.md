@@ -32,9 +32,7 @@ src="/home/images/soelker2015.jpg" alt="Sarah Oelker
 photo"></div><div><b>Sarah Oelker</b> is the Science Librarian at Mount 
 Holyoke College. Sarah consults with student and faculty 
 researchers on the selection, handling, and preservation of all kinds of 
-research data, and is the liaison to Astronomy, Biological Sciences, 
-Biochemistry, Computer Science, Neuroscience and Behavior, and Physics. 
-They demystify science and scientific careers for students, regardless of 
+research data. They demystify science and scientific careers for students, regardless of 
 background and experience, and help every student develop a critical 
 understanding of science.</div></td></tr> </table>
 
