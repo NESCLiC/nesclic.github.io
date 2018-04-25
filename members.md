@@ -20,7 +20,7 @@ permalink: /members/
   
 <table>
   <tr><td rowspan="3" width="20%"><img src="/home/images/HarvardLibrary.png" alt="Harvard University logo"></td>
-    <td><div style="width:100px;float:left;margin:10px"><img src="/home/images/JG_Harvard.jpg" alt="Julie Goldman photo"></div><div><b>Julie Goldman</b> is a Research Data Services Librarian at the Countway Library, Harvard Medical School, where she provides data related training and support for campus students and researchers. Julie promotes open science, reproducible workflows, and is interested in broadening scientific communication.</div></td></tr>
+    <td><div style="width:100px;float:left;margin:10px"><img src="home/images/goldman-harvard.jpg" alt="Julie Goldman photo"></div><div><b>Julie Goldman</b> is a Research Data Services Librarian at the Countway Library, Harvard Medical School, where she provides data related training and support for campus students and researchers. Julie promotes open science, reproducible workflows, and is interested in broadening scientific communication.</div></td></tr>
   <tr><td><div style="width:100px;float:left;margin:10px"><img src="/home/images/carpentries200x200.png" alt="Ceilyn Boyd photo"></div><div><b>Ceilyn Boyd </b> </div></td></tr>
 </table>
 
