@@ -1,6 +1,7 @@
 ---
 layout: home
 ---
+<img src="/home/images/NESCLiC-Logo-5.png" alt="NESCLiC Logo image">
 
 The **New England Software Carpentry Library Consortium** or **NESCLiC** is an association of academic libraries, joined as a community of practice focused on building data science skills in research computing, and extracting, wrangling, storing, analyzing, and visualizing data. NESCLiC allows member institutions to share in a Gold-level membership with the Carpentries. 
 
