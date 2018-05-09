@@ -4,7 +4,7 @@ title: Workshops
 permalink: /workshops/
 ---
 Check back for future workshops offered by NESCLiC members. 
-<p><em>This list includes offcial Carpentries' workshops where NESCLiC members served as hosts or helpers and workshops adapted from the Carpentries materials.</em></p>
+<p><em>This list includes offcial Carpentries' workshops where NESCLiC members served as hosts, instructors, or helpers and workshops adapted from the Carpentries materials.</em></p>
 
 Venue | Dates | Lessons
 ---|---|---
