@@ -21,7 +21,7 @@ permalink: /members/
 <table>
   <tr><td rowspan="3" width="20%"><img src="/home/images/HarvardLibrary.png" alt="Harvard University logo"></td>
     <td><div style="width:100px;float:left;margin:10px"><img src="/home/images/goldman-harvard.jpg" alt="Julie Goldman photo"></div><div><b>Julie Goldman</b> is a Research Data Services Librarian at the Countway Library, Harvard Medical School, where she provides data related training and support for campus students and researchers. Julie promotes open science, reproducible workflows, and is interested in broadening scientific communication.</div></td></tr>
-  <tr><td><div style="width:100px;float:left;margin:10px"><img src="/home/images/carpentries200x200.png" alt="Ceilyn Boyd photo"></div><div><b>Ceilyn Boyd </b> </div></td></tr>
+  <tr><td><div style="width:100px;float:left;margin:10px"><img src="/home/images/carpentries200x200.png" alt="Ceilyn Boyd photo"></div><div><b>Ceilyn Boyd </b> is the manager of the Harvard Library Research Data Management Program. Boyd has a background in software engineering and data visualization and in this role, works to connect members of the Harvard community to services and resources that span the research data lifecycle, to help ensure that Harvard’s multi-disciplinary research data is findable, accessible, interoperable, and reusable (FAIR).</div></td></tr>
 </table>
 
 <table>
