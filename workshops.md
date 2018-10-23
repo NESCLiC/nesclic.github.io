@@ -17,4 +17,5 @@ Virtual | January 30-31, 2018 | Instructor Training
 [Berklee School of Music](https://nesclic.github.io/2018-06-08-berklee/) (Hosts), Tufts (Instructors) | June 8, 2018 | Data Intro for Librarians, Shell Lesson for Librarians, OpenRefine for Librarians
 [Dartmouth College](https://nesclic.github.io/2018-06-28-Dartmouth/) | June 28-29, 2018 | Unix, Git, Programming with R
 [Yale University Library](https://nesclic.github.io/2018-08-15-YUL/) | August 15-16, 2018 | Tidy Data for Librarians, Shell Lesson for Librarians, OpenRefine for Librarians, Python Intro for Libraries
-[Brown University Library](https://nesclic.github.io/2018-10-22-NEASIST-Brown/) (Hosts & Helpers), Yale (Instructors) | October 22-23, 2018 | Data Intro for Librarians, Shell Lesson for Librarians, Git Intro for Librarians, OpenRefine for Librarians
+[Brown University Library](https://nesclic.github.io/2018-10-22-NEASIST-Brown/) (Hosts & Helpers), Yale and Tufts (Instructors) | October 22-23, 2018 | Data Intro for Librarians, Shell Lesson for Librarians, Git Intro for Librarians, OpenRefine for Librarians
+[Tufts University](https://nesclic.github.io/2018-11-09-tufts/) | November 9-10, 2018 | Unix, Git, Programming with Python
