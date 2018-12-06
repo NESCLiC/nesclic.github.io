@@ -9,7 +9,7 @@ Check back for future workshops offered by NESCLiC members.
 Venue | Dates | Lessons
 ---|---|---
 [Brown University](https://nesclic.github.io/2019-01-16-BrownUniversity) | January 16-17, 2019 | Data Organization in Spreadsheets, OpenRefine for Data Cleaning, Introduction to R, Data Analysis and Visualization in R, Data Management with SQL
-[Harvard Librry](https://nesclic.github.io/2019-01-15-harvard) | January 15-16, 2019 | Data Intro for Librarians, Shell Lessons for Libraries, Tidy Data for Librarians, OpenRefine for Librarians
+[Harvard University](https://nesclic.github.io/2019-01-15-harvard) | January 15-16, 2019 | Data Intro for Librarians, Shell Lessons for Libraries, Tidy Data for Librarians, OpenRefine for Librarians
 [UMass Amerhest](https://nesclic.github.io/2019-01-08-umass/) | January 8-9, 2019 | Unix, Python, Git
 [Dartmouth College](https://nesclic.github.io/2018-11-29-dartmouth/) | November 29-30, 2018 | Unix, Git, Python
 [Tufts University](https://nesclic.github.io/2018-11-09-tufts/) | November 9-10, 2018 | Unix, Git, Programming with Python
