@@ -7,7 +7,6 @@ Check back for publications and presentations by NESCLiC members.
 
 Type | Date | Citation | Link 
 ---|---|---|---
-
 Presentation|2018-10-30|Nyhan, K., Goldman, J. "Building a Library Carpentries Consortium." North Atlantic Health Sciences Libraries, Inc. 2018 Annual Conference, Manchester, NH.|[Presentation Slides](https://bit.ly/NESCLiC-NAHSL18) 
 Blog|2018-08-13|Dull, J., Atwood, T., Creamer, A., Goldman, J., Lee, K., Leligdon, L., Oelker, S., Erdmann, C. (2018, August 13). New England Libraries Team Up to Become Carpentries Members [Blog post]. Retrieved from https://librarycarpentry.org/blog/2018/08/13/new-england-libraries-carpentries-consortium/|[Post](https://librarycarpentry.org/blog/2018/08/13/new-england-libraries-carpentries-consortium/)
 Poster|2018-04-05|Atwood, T., Creamer, A., Dull, J., Goldman, J., Lee, K., Leligdon, L., Oelker, S. "The New England Software Carpentry Library Consortium: Developing a Carpentry Instructor Community of Practice." The 10th Annual University of Massachusetts and New England Area Librarian e-Science Symposium, Worcester, MA.|[Poster PDF](../blob/pubs/20180404_eSciencePoster.pdf)
