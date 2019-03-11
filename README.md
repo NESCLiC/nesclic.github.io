@@ -2,6 +2,8 @@
 Future home for the NESCLiC Consortium website
 
 ## Directory Layout
--> docs/ presentations, posters, papers, and other documents
+docs/ 
+-> presentations, posters, papers, and other documents
 
--> images/ all site images
+images/
+-> all site images
