@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publications
+title: Publications & Presentations
 permalink: /publications/
 ---
 Check back for publications and presentations by NESCLiC members. 
