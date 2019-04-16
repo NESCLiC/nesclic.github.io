@@ -7,6 +7,7 @@ Check back for publications, blog posts, and presentations by NESCLiC members.
 
 Type | Date | Citation | Link 
 ---|---|---|---
+Presentation|2019-03-29| Goldman, J. "Data Science Training for the Future: Building a Carpentries Consortium." NNLM NER eScience Forum.|[Slides](https://docs.google.com/presentation/d/1Qrxv8r_TtgrPzk3THZajX_LCutCLBLiUgdhB-xiekzQ/present?slide=id.g51e2d000df_0_247) 
 Presentation|2019-03-05| Dull, J., Lee, K. "Data Science Training for All" Electronic Resources and Libraries.|[Slides](../docs/DataScienceTrainingforAll.pdf) 
 Presentation|2019-02-07|Erdmann, C., Nyhan, K., Goldman, J. "Introduction to Library Carpentry and Building a Carpentries Consortium." NNLM Research Data Management Webinar Series.|[Slides](../docs/20190207-NNLM-Carpentries-Webinar.pdf) 
 Presentation|2018-10-30|Nyhan, K., Goldman, J. "Building a Library Carpentries Consortium." North Atlantic Health Sciences Libraries, Inc. 2018 Annual Conference, Manchester, NH.|[Slides](../docs/20181030-NAHSL-Building-a-Library-Carpentries-Consortium.pdf) 
