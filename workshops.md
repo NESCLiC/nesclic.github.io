@@ -8,6 +8,7 @@ Check back for future workshops offered by NESCLiC members.
 
 Venue | Dates | Lessons
 ---|---|---
+[Yale University Library](https://github.com/NESCLiC/2019-06-12-Yale) | June 12-13, 2019 | Library Carpentry
 [Tufts University](https://nesclic.github.io/2019-04-12-tufts) | April 12-13, 2019 | Unix, Git, Programming with Python
 [Yale University Library](https://nesclic.github.io/2019-03-21-Yale/) | March 21-22, 2019 | Unix, Git, Programming with Python
 [Tufts University](https://nesclic.github.io/2019-02-15-tufts) | February 15-16, 2019 | Data Organization in Spreadsheets, OpenRefine for Data Cleaning, R for Social Scientists
