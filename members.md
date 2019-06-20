@@ -2,6 +2,7 @@
 layout: page
 title: Members
 permalink: /members/
+redirect_from: "/home/members"
 ---
 #### 2017-2018 NESCLiC member institutions and their participants.
 

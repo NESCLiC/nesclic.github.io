@@ -2,6 +2,7 @@
 layout: page
 title: Workshops
 permalink: /workshops/
+redirect_from: "/home/workshops"
 ---
 Check back for future workshops offered by NESCLiC members. 
 <p><em>This list includes official Carpentries' workshops and workshops adapted from the Carpentries' materials where NESCLiC members served as hosts, instructors, or helpers .</em></p>
