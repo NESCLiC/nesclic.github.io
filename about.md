@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 ## What are the Carpentries?
-![The Carpentries Logo](/home/images/tC.png)
+![The Carpentries Logo](/images/tC.png)
 
 [The Carpentries'](https://carpentries.org/) workshops are hands-on two-day events that cover the core skills needed to be productive in a small team. Instruction sessions are integrated with practical exercises, and all instruction is done via live coding.
 
