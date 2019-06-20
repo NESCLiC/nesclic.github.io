@@ -3,8 +3,12 @@ title: NESCLiC
 github_username: NESCLiC
 description: >
  New England Software Carpentry Library Consortium
-url: "https://nesclic.github.io/home"
+url: "https://nesclic.github.io/"
 
 # Build settings
 markdown: kramdown
 theme: minima
+
+# plugins
+plugins:
+  - jekyll-redirect-from
