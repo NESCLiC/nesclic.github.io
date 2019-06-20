@@ -1,5 +1,6 @@
 ---
 layout: home
+redirect_from: "/home/"
 ---
 <img src="/images/NESCLiC-Logo-5-hero.png" alt="NESCLiC Logo image">
 
