@@ -2,7 +2,7 @@
 layout: page
 title: Publications & Presentations
 permalink: /publications/
-redirect_from: "/home/publications"
+redirect_from: /home/publications/
 ---
 Check back for publications, blog posts, and presentations by NESCLiC members. 
 
