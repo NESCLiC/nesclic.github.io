@@ -9,6 +9,7 @@ Check back for future workshops offered by NESCLiC members.
 
 Venue | Dates | Lessons
 ---|---|---
+[Yale University Library](https://github.com/NESCLiC/2019-07-24-YULTS) | July 24, 2019 | Library Carpentry
 [Dartmouth College](https://nesclic.github.io/2019-06-13-dartmouth/) | June 13-14, 2019 | Unix, Git, R for Reproducible Scientific Analysis
 [Yale University Library](https://github.com/NESCLiC/2019-06-12-Yale) | June 12-13, 2019 | Library Carpentry
 [Mount Holyoke College](https://nesclic.github.io/2019-06-11-Mount-Holyoke/) | June 11-12, 2019 | Unix, Git, Programming with Python
