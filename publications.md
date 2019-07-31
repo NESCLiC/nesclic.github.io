@@ -8,6 +8,7 @@ Check back for publications, blog posts, and presentations by NESCLiC members.
 
 Type | Date | Citation | Link 
 ---|---|---|---
+Publication|2019-07-29|Atwood, T., Creamer, A., Dull, J., Goldman, J., Lee, K., Leligdon, L., and Oelker, S. 2019. "Joining Together to Build More: The New England Software Carpentry Library Consortium." Journal of eScience Librarianship 8(1): e1161.|[Paper](https://doi.org/10.7191/jeslib.2019.1161)
 Presentation|2019-05-15| Goldman, J. "Data Science Training for the Future." RDAP Summit 2019.|[Slides](https://osf.io/zeh6f/) 
 Presentation|2019-03-29| Goldman, J. "Data Science Training for the Future: Building a Carpentries Consortium." NNLM NER eScience Forum.|[Slides](https://docs.google.com/presentation/d/1Qrxv8r_TtgrPzk3THZajX_LCutCLBLiUgdhB-xiekzQ/present?slide=id.g51e2d000df_0_247) 
 Presentation|2019-03-05| Dull, J., Lee, K. "Data Science Training for All" Electronic Resources and Libraries.|[Slides](../docs/DataScienceTrainingforAll.pdf) 
