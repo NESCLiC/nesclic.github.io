@@ -9,7 +9,7 @@ Check back for future workshops offered by NESCLiC members.
 
 Venue | Dates | Lessons
 ---|---|---
-[Harvard University Library](https://nesclic.github.io/2019-10-28-harvard/) | October 28-29, 2019 | Data Carpentry
+[Harvard University](https://nesclic.github.io/2019-10-28-harvard/) | October 28-29, 2019 | Data Carpentry: Data Analysis and Visualization in R & Geospatial Data
 [Brown University Library](https://nesclic.github.io/2019-10-21-NEASIST-Brown/) | October 21-22, 2019 | Library Carpentry
 [WHOI](https://nesclic.github.io/2019-10-03-whoi/) (Hosts), Tufts (Instructors) | October 3-4, 2019 | Software Carpentry
 [Yale University Library](https://github.com/NESCLiC/2019-07-24-YULTS) | July 24, 2019 | Library Carpentry
