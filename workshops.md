@@ -9,6 +9,7 @@ Check back for future workshops offered by NESCLiC members.
 
 Venue | Dates | Lessons
 ---|---|---
+[Dartmouth College](https://nesclic.github.io/2020-03-26-Dartmouth/) | March 26-27, 2020 | Software Carpentry: Unix, R, Git
 [Dartmouth College](https://nesclic.github.io/2019-12-05-dartmouth/) | December 5-6, 2019 | Software Carpentry: Unix, Python, Git
 [Harvard University](https://nesclic.github.io/2019-10-28-harvard/) | October 28-29, 2019 | Data Carpentry: Data Analysis and Visualization in R & Geospatial Data
 [Brown University Library](https://nesclic.github.io/2019-10-21-NEASIST-Brown/) | October 21-22, 2019 | Library Carpentry
