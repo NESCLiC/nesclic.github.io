@@ -6,7 +6,7 @@ redirect_from:
   - /home/members/
   - /home/members
 ---
-#### 2017-2018 NESCLiC member institutions and their participants.
+#### NESCLiC member institutions and their participants.
 
 
 <table>
