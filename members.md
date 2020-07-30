@@ -60,9 +60,35 @@ and workflows at UMass Amherst that promote transparency,
 reproducibility, and collaboration. </div></td></tr> </table>
 
 <table>
-  <tr><td rowspan="3" width="20%"><img src="/images/yale.png" alt="Yale University logo"></td>
-    <td><div style="width:100px;float:left;margin:10px"><img src="/images/CD100x100.png" alt="Catherine DeRose photo"></div><div><b>Catherine DeRose</b> is the Manager for the Yale Digital Humanities Lab. Catherine meets with researchers for consultations, teaches workshops on data analysis and visualization, and works with Teaching Fellows who are thinking about DH in the classroom.</div></td></tr>
-  <tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/JD100x100.png" alt="Joshua Dull photo"></div><div><b>Joshua Dull</b> is the Digital Humanities Support Librarian for Digital Humanities Lab within Yale University Library. Joshua brings expertise in data visualization, linked open data, data mining, and research data cleaning, transformation, and curation to the library.</div></td></tr>
-  <tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/KN100x100.png" alt="Kate Nyhan photo"></div><div><b>Kate Nyhan</b> is the Research & Education Services Librarian for Public Health at the Cushing/Whitney Medical Library. As well as answering questions and making referrals, Kate teaches research data management workshops. Kate can also discuss issues in biomedical and clinical data sharing, reporting standards, and reproducibility.</div></td></tr></table>
+  <tr><td rowspan="3" width="20%"><img src="/images/yale.png" alt="University of Massachusetts Medical School logo"></td>
+    <td><div style="width:100px;float:left;margin:10px"><img
+src="/images/CD100x100.png" alt="Sally Gore Photo"></div><div><b>Sally Gore</b> MS, MS LIS, is the manager of Research and Scholarly Communication Services for the Lamar Soutter Library, University of Massachusetts Medical School. Her department focuses on collaborative efforts with basic science and clinical researchers on campus, including expanding support and instruction in data services, and leads all scholarly communication endeavors for the Library, including providing bibliometrics analysis, tracking research impact, ensuring funder-based public access compliance, promoting open science initiatives, and managing eScholarship@UMMS, the University's institutional repository. Sally serves on the Board of Directors of the Medical Library Association and is the Associate Editor of the Journal of eScience Librarianship.</div></td></tr>
+  <tr><td><div style="width:100px;float:left;margin:10px"><img
+src="/images/JD100x100.png" alt="Tess Grynoch photo"></div><div><b>Tess Grynoch</b> is a Research Data & Scholarly Communications Librarian at the Lamar Soutter Library, University of Massachusetts Medical School. Hailing from Canada, she holds a Master of Library and Information Studies from Dalhousie University and received a Bachelor of Science from the University of Alberta. In her current position, she collaborates with faculty, students, researchers, fellow colleagues, and academic units to support scholarly communication at the University of Massachusetts Medical School, including library-based research data support services.</div></td></tr></table>
+
+<table>
+  <tr><td rowspan="3" width="20%"><img src="/images/yale.png" alt="Yale 
+University logo"></td>
+    <td><div style="width:100px;float:left;margin:10px"><img 
+src="/images/CD100x100.png" alt="Catherine DeRose 
+photo"></div><div><b>Catherine DeRose</b> is the Manager for the Yale 
+Digital Humanities Lab. Catherine meets with researchers for 
+consultations, teaches workshops on data analysis and visualization, and 
+works with Teaching Fellows who are thinking about DH in the 
+classroom.</div></td></tr>
+  <tr><td><div style="width:100px;float:left;margin:10px"><img 
+src="/images/JD100x100.png" alt="Joshua Dull photo"></div><div><b>Joshua 
+Dull</b> is the Digital Humanities Support Librarian for Digital 
+Humanities Lab within Yale University Library. Joshua brings expertise 
+in data visualization, linked open data, data mining, and research data 
+cleaning, transformation, and curation to the library.</div></td></tr>
+  <tr><td><div style="width:100px;float:left;margin:10px"><img 
+src="/images/KN100x100.png" alt="Kate Nyhan photo"></div><div><b>Kate 
+Nyhan</b> is the Research & Education Services Librarian for Public 
+Health at the Cushing/Whitney Medical Library. As well as answering 
+questions and making referrals, Kate teaches research data management 
+workshops. Kate can also discuss issues in biomedical and clinical data 
+sharing, reporting standards, and 
+reproducibility.</div></td></tr></table>
 
 
