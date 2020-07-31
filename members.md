@@ -56,7 +56,7 @@ early circus and understand its impact on the culture of the United
 States.</div></td></tr>
   <tr><td><div style="width:100px;float:left;margin:10px"><img 
 src="/images/AG_Tufts.png" alt="Ari Gofman photo"></div><div><b>Ari 
-Gofman </b> is the Social Science Data Librarian at Tisch Library, Tufts 
+Gofman</b> is the Social Science Data Librarian at Tisch Library, Tufts 
 University. They are the liaison to Economics, Urban and Environmental 
 Planning and Psychology and supports students, staff and faculty in the 
 social sciences in finding, using, visualizing, preserving, and sharing 
@@ -69,15 +69,18 @@ systems through data analysis and visualization, map design, code
 scripting, and environmental sampling. He has been the Statistics and 
 Research Technology Specialist at Tufts University since 2017, providing 
 statistical consulting, data visualization and high-performance 
-computing (HPC) support.</div></td></tr> <tr><td><div 
-style="width:100px;float:left;margin:10px"><img 
+computing (HPC) support.</div></td></tr> 
+
+  <tr><td><div style="width:100px;float:left;margin:10px"><img 
 src="/images/BW_Tufts_100x100.png" alt="Berika Williams 
 photo"></div><div><b>Berika Williams</b> is the Emerging Technologies 
 and Web Librarian at Tufts’ Hirsh Health Sciences Library where she is 
 responsible for their online presence. Her professional interests 
 include web development, information architecture, and data science. She 
 has taught a number of R workshops and enjoys visualizing data to tease 
-out insights.</div></td></tr></table>
+out insights.</div></td></tr>
+
+</table>
   
 <table>
   <tr><td rowspan="1" width="20%"><img src="/images/UMassAmherstLibraries.gif" alt="UMass Amherst University logo"></td>
