@@ -69,18 +69,16 @@ systems through data analysis and visualization, map design, code
 scripting, and environmental sampling. He has been the Statistics and 
 Research Technology Specialist at Tufts University since 2017, providing 
 statistical consulting, data visualization and high-performance 
-computing (HPC) support.</div></td>
+computing (HPC) support.</div></td></tr>
 
-  <td><div style="width:100px;float:left;margin:10px"><img 
+ <tr><td><div style="width:100px;float:left;margin:10px"><img 
 src="/images/BW_Tufts_100x100.png" alt="Berika Williams 
 photo"></div><div><b>Berika Williams</b> is the Emerging Technologies 
 and Web Librarian at Tufts’ Hirsh Health Sciences Library where she is 
 responsible for their online presence. Her professional interests 
 include web development, information architecture, and data science. She 
 has taught a number of R workshops and enjoys visualizing data to tease 
-out insights.</div></td></tr>
-
-</table>
+out insights.</div></td></tr> </table>
   
 <table>
   <tr><td rowspan="1" width="20%"><img src="/images/UMassAmherstLibraries.gif" alt="UMass Amherst University logo"></td>
