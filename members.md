@@ -31,95 +31,95 @@ redirect_from:
 </table>
 
 <table>
-  <tr><td rowspan="3" width="20%"><img src="/images/mountholyokecollege.png" alt="Mount Holyoke College logo"></td>
-    <td><div style="width:100px;float:left;margin:10px"><img src="/images/Burkeapr18.jpg" alt="James Burke photo"></div><div><b>James Burke</b> </div></td></tr>
-  <tr><td><div style="width:100px;float:left;margin:10px"><img 
-src="/images/soelker2015.jpg" alt="Sarah Oelker 
-photo"></div><div><b>Sarah Oelker</b> is the Science Librarian at Mount 
-Holyoke College. Sarah consults with student and faculty 
-researchers on the selection, handling, and preservation of all kinds of 
-research data. They demystify science and scientific careers for students, regardless of 
-background and experience, and help every student develop a critical 
-understanding of science.</div></td></tr> </table>
+    <tr><td rowspan="3" width="20%"><img src="/images/mountholyokecollege.png" alt="Mount Holyoke College logo"></td>
+        <td><div style="width:100px;float:left;margin:10px"><img src="/images/Burkeapr18.jpg" alt="James Burke photo"></div><div><b>James Burke</b> </div></td></tr>
+    <tr><td><div style="width:100px;float:left;margin:10px"><img
+        src="/images/soelker2015.jpg" alt="Sarah Oelker
+        photo"></div><div><b>Sarah Oelker</b> is the Science Librarian at Mount
+            Holyoke College. Sarah consults with student and faculty
+            researchers on the selection, handling, and preservation of all kinds of
+            research data. They demystify science and scientific careers for students, regardless of
+            background and experience, and help every student develop a critical
+            understanding of science.</div></td></tr> </table>
 
 <table>
-  <tr><td rowspan="3" width="20%"><img 
-src="/images/tufts-logo-univ-blue.png" alt="Tufts University logo"></td>
-    <td><div style="width:100px;float:left;margin:10px"><img 
-src="/images/KL_Tufts.jpg" alt="Kristin Lee photo"></div><div><b>Kristin 
-Lee</b> is the Research Data Librarian at the Tisch Library, Tufts 
-University. She works with researchers in the School of Arts and 
-Sciences and the School of Engineering to help them find efficient ways 
-to make their research data reusable and accessible. Kristin is a data 
-nerd to the core and is currently working on a side project to map the 
-early circus and understand its impact on the culture of the United 
-States.</div></td></tr>
-  <tr><td><div style="width:100px;float:left;margin:10px"><img 
-src="/images/AG_Tufts.png" alt="Ari Gofman photo"></div><div><b>Ari 
-Gofman</b> is the Social Science Data Librarian at Tisch Library, Tufts 
-University. They are the liaison to Economics, Urban and Environmental 
-Planning and Psychology and supports students, staff and faculty in the 
-social sciences in finding, using, visualizing, preserving, and sharing 
-data. Ari is particularly interested in diversity, inclusion and social 
-justice in libraries and broadly.</div></td></tr>
-  <tr><td><div style="width:100px;float:left;margin:10px"><img 
-src="/images/KM_Tufts.jpg" alt="Kyle Monahan photo"></div><div><b>Kyle 
-Monahan</b> enjoys using statistical and GIS tools to analyze complex 
-systems through data analysis and visualization, map design, code 
-scripting, and environmental sampling. He has been the Statistics and 
-Research Technology Specialist at Tufts University since 2017, providing 
-statistical consulting, data visualization and high-performance 
-computing (HPC) support.</div></td></tr>
- <tr><td><div style="width:100px;float:left;margin:10px"><img 
-src="/images/BW_Tufts_100x100.png" alt="Berika Williams 
-photo"></div><div><b>Berika Williams</b> is the Emerging Technologies 
-and Web Librarian at Tufts’ Hirsh Health Sciences Library where she is 
-responsible for their online presence. Her professional interests 
-include web development, information architecture, and data science. She 
-has taught a number of R workshops and enjoys visualizing data to tease 
-out insights.</div></td></tr> </table>
-  
-<table>
-  <tr><td rowspan="1" width="20%"><img src="/images/UMassAmherstLibraries.gif" alt="UMass Amherst University logo"></td>
-    <td><div style="width:100px;float:left;margin:10px"><img 
-src="/images/tpa_profile02.jpg" alt="Thea Atwood 
-photo"></div><div><b>Thea Atwood</b> is the Data Services Librarian at 
-the University of Massachusetts Amherst. She supports researchers by 
-providing workshops and consultations that focus on optimizing data 
-management and retention. She is interested in developing infrastructure 
-and workflows at UMass Amherst that promote transparency, 
-reproducibility, and collaboration. </div></td></tr> </table>
+    <tr><td rowspan="3" width="20%"><img
+        src="/images/tufts-logo-univ-blue.png" alt="Tufts University logo"></td>
+    <tr><td><div style="width:100px;float:left;margin:10px"><img
+        src="/images/KL_Tufts.jpg" alt="Kristin Lee photo"></div><div><b>Kristin
+            Lee</b> is the Research Data Librarian at the Tisch Library, Tufts
+        University. She works with researchers in the School of Arts and
+        Sciences and the School of Engineering to help them find efficient ways
+        to make their research data reusable and accessible. Kristin is a data
+        nerd to the core and is currently working on a side project to map the
+        early circus and understand its impact on the culture of the United
+            States.</div></td></tr>
+    <tr><td><div style="width:100px;float:left;margin:10px"><img
+        src="/images/AG_Tufts.png" alt="Ari Gofman photo"></div><div><b>Ari
+            Gofman</b> is the Social Science Data Librarian at Tisch Library, Tufts
+        University. They are the liaison to Economics, Urban and Environmental
+        Planning and Psychology and supports students, staff and faculty in the
+        social sciences in finding, using, visualizing, preserving, and sharing
+        data. Ari is particularly interested in diversity, inclusion and social
+            justice in libraries and broadly.</div></td></tr>
+    <tr><td><div style="width:100px;float:left;margin:10px"><img
+        src="/images/KM_Tufts.jpg" alt="Kyle Monahan photo"></div><div><b>Kyle
+            Monahan</b> enjoys using statistical and GIS tools to analyze complex
+        systems through data analysis and visualization, map design, code
+        scripting, and environmental sampling. He has been the Statistics and
+        Research Technology Specialist at Tufts University since 2017, providing
+        statistical consulting, data visualization and high-performance
+            computing (HPC) support.</div></td></tr>
+    <tr><td><div style="width:100px;float:left;margin:10px"><img
+        src="/images/BW_Tufts_100x100.png" alt="Berika Williams
+        photo"></div><div><b>Berika Williams</b> is the Emerging Technologies
+            and Web Librarian at Tufts’ Hirsh Health Sciences Library where she is
+            responsible for their online presence. Her professional interests
+            include web development, information architecture, and data science. She
+            has taught a number of R workshops and enjoys visualizing data to tease
+            out insights.</div></td></tr> </table>
 
 <table>
-  <tr><td rowspan="3" width="20%"><img src="/images/umms-inf-2col.png" alt="University of Massachusetts Medical School logo"></td>
-    <td><div style="width:100px;float:left;margin:10px"><img
-src="/images/HeadShot_Gore_square.png" alt="Sally Gore Photo"></div><div><b>Sally Gore</b> MS, MS LIS, is the manager of Research and Scholarly Communication Services for the Lamar Soutter Library, University of Massachusetts Medical School. Her department focuses on collaborative efforts with basic science and clinical researchers on campus, including expanding support and instruction in data services, and leads all scholarly communication endeavors for the Library, including providing bibliometrics analysis, tracking research impact, ensuring funder-based public access compliance, promoting open science initiatives, and managing eScholarship@UMMS, the University's institutional repository. Sally serves on the Board of Directors of the Medical Library Association and is the Associate Editor of the Journal of eScience Librarianship.</div></td></tr>
-  <tr><td><div style="width:100px;float:left;margin:10px"><img
-src="/images/grynochheadshot.jpg" alt="Tess Grynoch photo"></div><div><b>Tess Grynoch</b> is a Research Data & Scholarly Communications Librarian at the Lamar Soutter Library, University of Massachusetts Medical School. Hailing from Canada, she holds a Master of Library and Information Studies from Dalhousie University and received a Bachelor of Science from the University of Alberta. In her current position, she collaborates with faculty, students, researchers, fellow colleagues, and academic units to support scholarly communication at the University of Massachusetts Medical School, including library-based research data support services.</div></td></tr></table>
+    <tr><td rowspan="1" width="20%"><img src="/images/UMassAmherstLibraries.gif" alt="UMass Amherst University logo"></td>
+        <td><div style="width:100px;float:left;margin:10px"><img
+            src="/images/tpa_profile02.jpg" alt="Thea Atwood
+            photo"></div><div><b>Thea Atwood</b> is the Data Services Librarian at
+                the University of Massachusetts Amherst. She supports researchers by
+                providing workshops and consultations that focus on optimizing data
+                management and retention. She is interested in developing infrastructure
+                and workflows at UMass Amherst that promote transparency,
+                reproducibility, and collaboration. </div></td></tr> </table>
 
 <table>
-  <tr><td rowspan="3" width="20%"><img src="/images/yale.png" alt="Yale 
-University logo"></td>
-    <td><div style="width:100px;float:left;margin:10px"><img 
-src="/images/CD100x100.png" alt="Catherine DeRose 
-photo"></div><div><b>Catherine DeRose</b> is the Manager for the Yale 
-Digital Humanities Lab. Catherine meets with researchers for 
-consultations, teaches workshops on data analysis and visualization, and 
-works with Teaching Fellows who are thinking about DH in the 
-classroom.</div></td></tr>
-  <tr><td><div style="width:100px;float:left;margin:10px"><img 
-src="/images/JD100x100.png" alt="Joshua Dull photo"></div><div><b>Joshua 
-Dull</b> is the Digital Humanities Support Librarian for Digital 
-Humanities Lab within Yale University Library. Joshua brings expertise 
-in data visualization, linked open data, data mining, and research data 
-cleaning, transformation, and curation to the library.</div></td></tr>
-  <tr><td><div style="width:100px;float:left;margin:10px"><img 
-src="/images/KN100x100.png" alt="Kate Nyhan photo"></div><div><b>Kate 
-Nyhan</b> is the Research & Education Services Librarian for Public 
-Health at the Cushing/Whitney Medical Library. As well as answering 
-questions and making referrals, Kate teaches research data management 
-workshops. Kate can also discuss issues in biomedical and clinical data 
-sharing, reporting standards, and 
-reproducibility.</div></td></tr></table>
-
-
+    <tr><td rowspan="3" width="20%"><img src="/images/umms-inf-2col.png" alt="University of Massachusetts Medical School logo"></td>
+        <td><div style="width:100px;float:left;margin:10px"><img
+            src="/images/HeadShot_Gore_square.png" alt="Sally Gore Photo"></div><div><b>Sally Gore</b> MS, MS LIS, is the manager of Research and Scholarly Communication Services for the Lamar Soutter Library, University of Massachusetts Medical School. Her department focuses on collaborative efforts with basic science and clinical researchers on campus, including expanding support and instruction in data services, and leads all scholarly communication endeavors for the Library, including providing bibliometrics analysis, tracking research impact, ensuring funder-based public access compliance, promoting open science initiatives, and managing eScholarship@UMMS, the University's institutional repository. Sally serves on the Board of Directors of the Medical Library Association and is the Associate Editor of the Journal of eScience Librarianship.</div></td></tr>
+    <tr><td><div style="width:100px;float:left;margin:10px"><img
+        src="/images/grynochheadshot.jpg" alt="Tess Grynoch photo"></div><div><b>Tess Grynoch</b> is a Research Data & Scholarly Communications Librarian at the Lamar Soutter Library, University of Massachusetts Medical School. Hailing from Canada, she holds a Master of Library and Information Studies from Dalhousie University and received a Bachelor of Science from the University of Alberta. In her current position, she collaborates with faculty, students, researchers, fellow colleagues, and academic units to support scholarly communication at the University of Massachusetts Medical School, including library-based research data support services.</div></td></tr></table>
+            
+            <table>
+            <tr><td rowspan="3" width="20%"><img src="/images/yale.png" alt="Yale
+            University logo"></td>
+            <td><div style="width:100px;float:left;margin:10px"><img
+                src="/images/CD100x100.png" alt="Catherine DeRose
+                photo"></div><div><b>Catherine DeRose</b> is the Manager for the Yale
+                    Digital Humanities Lab. Catherine meets with researchers for
+                    consultations, teaches workshops on data analysis and visualization, and
+                    works with Teaching Fellows who are thinking about DH in the
+                    classroom.</div></td></tr>
+    <tr><td><div style="width:100px;float:left;margin:10px"><img
+        src="/images/JD100x100.png" alt="Joshua Dull photo"></div><div><b>Joshua
+            Dull</b> is the Digital Humanities Support Librarian for Digital
+        Humanities Lab within Yale University Library. Joshua brings expertise
+        in data visualization, linked open data, data mining, and research data 
+            cleaning, transformation, and curation to the library.</div></td></tr>
+    <tr><td><div style="width:100px;float:left;margin:10px"><img 
+        src="/images/KN100x100.png" alt="Kate Nyhan photo"></div><div><b>Kate 
+            Nyhan</b> is the Research & Education Services Librarian for Public 
+        Health at the Cushing/Whitney Medical Library. As well as answering 
+        questions and making referrals, Kate teaches research data management 
+        workshops. Kate can also discuss issues in biomedical and clinical data 
+        sharing, reporting standards, and 
+        reproducibility.</div></td></tr></table>
+        
+        
