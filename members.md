@@ -70,7 +70,6 @@ scripting, and environmental sampling. He has been the Statistics and
 Research Technology Specialist at Tufts University since 2017, providing 
 statistical consulting, data visualization and high-performance 
 computing (HPC) support.</div></td></tr>
-
  <tr><td><div style="width:100px;float:left;margin:10px"><img 
 src="/images/BW_Tufts_100x100.png" alt="Berika Williams 
 photo"></div><div><b>Berika Williams</b> is the Emerging Technologies 
