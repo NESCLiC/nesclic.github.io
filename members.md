@@ -45,7 +45,7 @@ redirect_from:
 <table>
     <tr><td rowspan="3" width="20%"><img
         src="/images/tufts-logo-univ-blue.png" alt="Tufts University logo"></td>
-    <tr><td><div style="width:100px;float:left;margin:10px"><img
+    <td><div style="width:100px;float:left;margin:10px"><img
         src="/images/KL_Tufts.jpg" alt="Kristin Lee photo"></div><div><b>Kristin
             Lee</b> is the Research Data Librarian at the Tisch Library, Tufts
         University. She works with researchers in the School of Arts and
