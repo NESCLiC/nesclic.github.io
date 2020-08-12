@@ -77,7 +77,7 @@ redirect_from:
             responsible for their online presence. Her professional interests
             include web development, information architecture, and data science. She
             has taught a number of R workshops and enjoys visualizing data to tease
-            out insights.</div></td></tr> </table>
+            out insights.</div></td></tr></table>
 
 <table>
     <tr><td rowspan="1" width="20%"><img src="/images/UMassAmherstLibraries.gif" alt="UMass Amherst University logo"></td>
@@ -88,20 +88,19 @@ redirect_from:
                 providing workshops and consultations that focus on optimizing data
                 management and retention. She is interested in developing infrastructure
                 and workflows at UMass Amherst that promote transparency,
-                reproducibility, and collaboration. </div></td></tr> </table>
+                reproducibility, and collaboration. </div></td></tr></table>
 
 <table>
     <tr><td rowspan="3" width="20%"><img src="/images/umms-inf-2col.png" alt="University of Massachusetts Medical School logo"></td>
         <td><div style="width:100px;float:left;margin:10px"><img
             src="/images/HeadShot_Gore_square.png" alt="Sally Gore Photo"></div><div><b>Sally Gore</b> MS, MS LIS, is the manager of Research and Scholarly Communication Services for the Lamar Soutter Library, University of Massachusetts Medical School. Her department focuses on collaborative efforts with basic science and clinical researchers on campus, including expanding support and instruction in data services, and leads all scholarly communication endeavors for the Library, including providing bibliometrics analysis, tracking research impact, ensuring funder-based public access compliance, promoting open science initiatives, and managing eScholarship@UMMS, the University's institutional repository. Sally serves on the Board of Directors of the Medical Library Association and is the Associate Editor of the Journal of eScience Librarianship.</div></td></tr>
     <tr><td><div style="width:100px;float:left;margin:10px"><img
-        src="/images/grynochheadshot.jpg" alt="Tess Grynoch photo"></div><div><b>Tess Grynoch</b> is a Research Data & Scholarly Communications Librarian at the Lamar Soutter Library, University of Massachusetts Medical School. Hailing from Canada, she holds a Master of Library and Information Studies from Dalhousie University and received a Bachelor of Science from the University of Alberta. In her current position, she collaborates with faculty, students, researchers, fellow colleagues, and academic units to support scholarly communication at the University of Massachusetts Medical School, including library-based research data support services.</div></td></tr>
-            </table>
+        src="/images/grynochheadshot.jpg" alt="Tess Grynoch photo"></div><div><b>Tess Grynoch</b> is a Research Data & Scholarly Communications Librarian at the Lamar Soutter Library, University of Massachusetts Medical School. Hailing from Canada, she holds a Master of Library and Information Studies from Dalhousie University and received a Bachelor of Science from the University of Alberta. In her current position, she collaborates with faculty, students, researchers, fellow colleagues, and academic units to support scholarly communication at the University of Massachusetts Medical School, including library-based research data support services.</div></td></tr></table>
             
-            <table>
-            <tr><td rowspan="3" width="20%"><img src="/images/yale.png" alt="Yale
+<table>
+    <tr><td rowspan="3" width="20%"><img src="/images/yale.png" alt="Yale
             University logo"></td>
-            <td><div style="width:100px;float:left;margin:10px"><img
+        <td><div style="width:100px;float:left;margin:10px"><img
                 src="/images/CD100x100.png" alt="Catherine DeRose
                 photo"></div><div><b>Catherine DeRose</b> is the Manager for the Yale
                     Digital Humanities Lab. Catherine meets with researchers for
