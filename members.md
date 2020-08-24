@@ -84,7 +84,10 @@ redirect_from:
     <tr><td rowspan="3" width="20%"><img src="/images/yale.png" alt="Yale
             University logo"></td>
         <td><div style="width:100px;float:left;margin:10px"><img
-                src="/images/CD100x100.png" alt="Catherine DeRose
+                src="/images/kayebohemier-Yale.jpg" alt="Kayleigh Bohémier
+                photo"></div><div><b>Kayleigh Bohemier</b> Kayleigh Bohémier is the Science Research Support Librarian for Astronomy, Earth and Planetary Sciences, Linguistics, and Physics at the Marx Science and Social Science Library, Yale University. She works with scientists who generate and use data, and she has participated in data management workshops, consultations, and initiatives at the university since 2012. Since 2018, Kayleigh has chaired the Day of Data, an internal symposium for university affiliates that showcases data-intensive projects happening across the institution.</div></td></tr>
+    <tr><td><div style="width:100px;float:left;margin:10px"><img
+        src="/images/CD100x100.png" alt="Catherine DeRose
                 photo"></div><div><b>Catherine DeRose</b> is the Manager for the Yale Digital Humanities Lab. Catherine meets with researchers for consultations, teaches workshops on data analysis and visualization, and works with Teaching Fellows who are thinking about DH in the classroom.</div></td></tr>
     <tr><td><div style="width:100px;float:left;margin:10px"><img
         src="/images/JD100x100.png" alt="Joshua Dull photo"></div><div><b>Joshua Dull</b> is the Digital Humanities Support Librarian for Digital Humanities Lab within Yale University Library. Joshua brings expertise in data visualization, linked open data, data mining, and research data cleaning, transformation, and curation to the library.</div></td></tr>
