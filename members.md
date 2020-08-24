@@ -63,7 +63,7 @@ redirect_from:
     <tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/BW_Tufts_100x100.png" alt="Berika Williams photo"></div><div><b>Berika Williams</b> is the Emerging Technologies and Web Librarian at Tufts’ Hirsh Health Sciences Library where she is responsible for their online presence. Her professional interests include web development, information architecture, and data science. She has taught a number of R workshops and enjoys visualizing data to tease out insights.</div></td></tr></table>
 
 <table>
-    <tr><td rowspan=“1” width="20%"><img src="/images/UMassAmherstLibraries.gif" alt="UMass Amherst University logo"></td>
+    <tr><td rowspan=“3” width="20%"><img src="/images/UMassAmherstLibraries.gif" alt="UMass Amherst University logo></td>
         <td><div style="width:100px;float:left;margin:10px"><img src="/images/tpa_profile02.jpg" alt="Thea Atwood photo"></div><div><b>Thea Atwood</b> is the Data Services Librarian at the University of Massachusetts Amherst. She supports researchers by providing workshops and consultations that focus on optimizing data management and retention. She is interested in developing infrastructure and workflows at UMass Amherst that promote transparency, reproducibility, and collaboration. </div></td></tr></table>
 
 <table>
