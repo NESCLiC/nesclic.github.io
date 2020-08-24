@@ -10,6 +10,11 @@ redirect_from:
 
 
 <table>
+  <tr><td rowspan="3" width="20%"><img src="/images/BrandeisLogo.PNG" alt="Brandeis University logo"></td>
+    <td><div style="width:100px;float:left;margin:10px"><img src="/images/MargaritaCorralBrandeis.jpg" alt="Margarita Corral photo"></div><div><b>Margarita Corral</b> is the Data Analysis Specialist at Brandeis Library. She supports quantitative and qualitative data analysis in the social sciences. She teaches workshops on different software and holds consultations with faculty, students, and staff. </div></td></tr>
+  </table>
+
+<table>
   <tr><td rowspan="3" width="20%"><img src="/images/Brown.png" alt="Brown University logo"></td>
     <td><div style="width:100px;float:left;margin:10px"><img src="/images/AC_Brown.jpg" alt="Andrew Creamer photo"></div><div><b>Andrew Creamer</b> is the Scientific Data Management Librarian at Brown University. He helps researchers with the retention and curation of research data, writing data management and sharing plans for sponsored research grant proposals, and serves as liaison for the Brown Digital Repository (BDR).</div></td></tr>
   <tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/EferrierBrown.jpg" alt="Emily Ferrier photo"></div><div><b>Emily Ferrier</b> is the Librarian for Social Science and Entrepreneurship, where she works with students and faculty conducting research and participating in entrepreneurial problem solving. Her work with data emphasizes skill building, open documentation and knowledge sharing across the disciplines.</div></td></tr>
