@@ -47,6 +47,11 @@ redirect_from:
     <tr><td><div style="width:100px;float:left;margin:10px"><img src="/images/soelker2015.jpg" alt="Sarah Oelker photo"></div><div><b>Sarah Oelker</b> is the Science Librarian at Mount Holyoke College. Sarah consults with student and faculty researchers on the selection, handling, and preservation of all kinds of research data. They demystify science and scientific careers for students, regardless of background and experience, and help every student develop a critical understanding of science.</div></td></tr> </table>
 
 <table>
+  <tr><td rowspan="3" width="20%"><img src="/images/NortheasternLogo.png" alt="Northeastern University logo"></td>
+    <td><div style="width:100px;float:left;margin:10px"><img src="/images/KateKryderNortheastern.png" alt="Kate Kryder photo"></div><div><b>Kate Kryder</b> is the Research Data Analyst at Northeastern University. She supports data analysis and visualization, providing training and assistance with all things related to information visualization from programming to poster design.</div></td></tr>
+  </table>
+
+<table>
     <tr><td rowspan="3" width="20%"><img
         src="/images/tufts-logo-univ-blue.png" alt="Tufts University logo"></td>
     <td><div style="width:100px;float:left;margin:10px"><img
